@@ -1,0 +1,12 @@
+{
+ "Name": "Auto stock market manager",
+ "ID": "autobank",
+ "Author": "LaPingas",
+ "Description": "AFK stonks FTW.",
+ "ModVersion": 1,
+ "GameVersion": 2.048,
+ "Date": "02/09/2022",
+ "Dependencies": [],
+ "Disabled": 1,
+ "AllowSteamAchievs": 1
+}
